@@ -52,10 +52,12 @@ LOGIN_DATA = {
 
 
 def load_login_data():
+    fo = open('LOG/login', 'r').read().split(":")
+    LOGIN_DATA['login'] = fo[0]
+    LOGIN_DATA['pass'] = fo[1]
     # fo = open('login', 'r').read().split(":")
-    # LOGIN_DATA['login'] = fo[0]
-    # LOGIN_DATA['pass'] = fo[1]    fo = open('login', 'r').read().split(":")
-    LOGIN_DATA['login'] =
+    # LOGIN_DATA['login'] =
+    # LOGIN_DATA['pass']
     print "LOADED ICLOUD PROFILE: ", LOGIN_DATA['login'], ":", LOGIN_DATA['pass']
 
 
