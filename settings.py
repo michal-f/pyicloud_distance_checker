@@ -1,4 +1,4 @@
 __author__ = 'M.Frackowiak'
 
 
-DEBUG_CONSOLE_LOGT=True
+DEBUG_CONSOLE_LOGS=False

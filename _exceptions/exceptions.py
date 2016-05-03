@@ -8,6 +8,20 @@ class IntervalException(ExceptionWithFormat):
     set interval exception.
     """
 
+class IntervalReturnFailed(ExceptionWithFormat):
+    """
+    return interval exception.
+    """
+
+class InputCleaningException(ExceptionWithFormat):
+    """
+    Alarm input cleaning exceptionexception.
+    """
+
+class InputIsEmptyException(ExceptionWithFormat):
+    """
+    Input data is empty exceptionexception.
+    """
 
 class AlarmException(ExceptionWithFormat):
     """
