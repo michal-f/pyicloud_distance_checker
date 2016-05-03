@@ -200,7 +200,7 @@ class App(object):
                            "alpr": [True, pygame.USEREVENT + 2],
                            "capture": [True, pygame.USEREVENT + 3]}
         # Camera
-        self.run_camera_capture_thread()
+        # self.run_camera_capture_thread()
 
     def run_camera_capture_thread(self):
         thread_cam = CAMThread()
