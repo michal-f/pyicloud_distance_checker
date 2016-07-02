@@ -29,7 +29,7 @@ Full requirements pip file comes soon...
     michal.f@mail.com:Password
     ```
     
-  2. Get source location cordinantes (from any map or something examplegoogle maps)
+  2. Get source location cordinantes (from any map for example google maps)
     
   Edit settings.py file and provide your source location cordinantes:
     

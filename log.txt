@@ -3648,3 +3648,13 @@
 [ 3 ][i:90][Diff: 16 ][Dist: 7926][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
 2016-07-03 01:20:27.815000::::
 [ 4 ][i:90][Diff: 11 ][Dist: 7914][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 01:21:59.662000::::
+[ 5 ][i:90][Diff: 1 ][Dist: 7916][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 01:23:31.417000::::
+[ 6 ][i:90][Diff: 0 ][Dist: 7916][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 01:25:03.105000::::
+[ 7 ][i:90][Diff: 0 ][Dist: 7916][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 01:26:34.817000::::
+[ 8 ][i:90][Diff: 4 ][Dist: 7921][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 01:28:06.518000::::
+[ 9 ][i:90][Diff: 4 ][Dist: 7917][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
