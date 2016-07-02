@@ -17,23 +17,21 @@ Full requirements pip file comes soon...
 
 
 ## How run app?
-    1. Create file "login_credentials.txt" in root location with iCloud login credentials in such format:
+  1. Create file "login_credentials.txt" in root location with iCloud login credentials in such format:
     
     ```
     login:password
     ```
     
-    example:
+  example:
     
     ```
     michal.f@mail.com:Password
     ```
     
-    2. Get source location cordinantes (from any map or something examplegoogle maps)
+  2. Get source location cordinantes (from any map or something examplegoogle maps)
     
-    Edit settings.py file and provide your source location cordinantes:
-    
-    example:
+  Edit settings.py file and provide your source location cordinantes:
     
     ```
     SOURCE_LOCATION_CORDINANTES = {
@@ -43,7 +41,7 @@ Full requirements pip file comes soon...
     
     ```
 
-    3. run in console:
+  3. run in console:
 
     ```
     python checker.py
