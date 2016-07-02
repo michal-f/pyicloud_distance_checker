@@ -21,7 +21,7 @@ LOG/
 
 # C extensions
 *.so
-
+login_credentials.txt
 # Distribution / packaging
 .Python
 env/
