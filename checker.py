@@ -1,49 +1,29 @@
 #!/usr/bin/env python
 # -*- coding: utf8 -*-
 # __author__ = 'M.Frackowiak'
+# OPENSOURCE PROJECT :)
 """
 DISTANCE CHECKER BETWEEN DEVICE AND SELECTED POINT via ICLOUD SERVICE
-
-DO ZAIMPLEMTOWANIA
--https://pypi.python.org/pypi/geolocation-python/0.2.2
-
+outputs console logs and sound notifications about iCloud device movement.
 """
 from __future__ import absolute_import
-import sys
 import time
-import numbers
 import datetime
 import utils
 import os
+import sound_processor
 from _exceptions.exceptions import *
 from pyicloud import PyiCloudService
 from geopy.geocoders import Nominatim
 from geopy.distance import vincenty
 from geopy.distance import great_circle
-import mp3play
-
-import subprocess
-import multiprocessing
-import json
-import glob
-import shutil
-import threading
-import time as imported_time
-# from datetime import datetim
 from utils import log
+from settings import *
 
-CONSOLE_LOG = False
-DEBUGGING = False
-SYRKOMLI = {
+SOURCE_LOCATION_CORDINANTES = {
     'latitude': 54.503501,
     'longitude': 18.542396
 }
-
-
-# def log(text):
-#     if CONSOLE_LOG is True:
-#         print text
-
 
 LOGIN_DATA = {
     'login': '',
@@ -100,7 +80,7 @@ def distance_handler(location_obj):
         except:
             pass
     # log("\nLOCATION RAW:"+location.address)
-    POINT_A = (SYRKOMLI['latitude'], SYRKOMLI['longitude'])
+    POINT_A = (SOURCE_LOCATION_CORDINANTES['latitude'], SOURCE_LOCATION_CORDINANTES['longitude'])
     POINT_B = (location_obj['latitude'], location_obj['longitude'])
 
     vincentkm = (vincenty(POINT_A, POINT_B).kilometers)
@@ -161,217 +141,9 @@ def distance_handler(location_obj):
 
 FIRSTRUN = True
 
-
-# class UFGThread (threading.Thread):
-#     def __init__(self, plate):
-#         threading.Thread.__init__(self)
-#         self.name = plate
-#
-#     def run(self):
-#         debug_log( "[THREAD UFG]> Starting " + self.name)
-#         self.process_ufg(self.name)
-#         debug_log( "[THREAD UFG]> Exiting " + self.name)
-#
-#     def process_ufg(self, plate):
-#         global UFG, EXIT_FLAG
-#         finished_flag = False
-#         UFG["status"] = 1
-#
-#         while not finished_flag:
-#             if EXIT_FLAG:
-#                 plate.exit()
-#
-#             debug_log( "[THREAD UFG]>  %s: %s" % (plate, imported_time.ctime(imported_time.time())))
-#             output = subprocess.Popen(["python", "UFGRequestor.py", plate, "-d"],
-#                                       cwd="/home/theta/alpr-ufg",
-#                                               stdin=subprocess.PIPE, stdout=subprocess.PIPE, shell=False)
-#             stdout, stderr = output.communicate()
-#             UFG["result"] = json.loads(stdout[stdout.find("{"):stdout.find("}") + 1]) if stdout.find("}") > 0 else "failed"
-#             UFG["status"] = 2
-#             finished_flag = True
-
-
-
-#
-# def run_camera_capture_thread(self):
-#     thread_cam = CAMThread()
-#     thread_cam.start()
-
-class SoundThread(threading.Thread):
-    def __init__(self, sound=None, type=None):
-        threading.Thread.__init__(self)
-        self.soundpath = soundpath
-
-    def run(self):
-        clip = mp3play.load(self.soundpath)
-        clip.play()
-        time.sleep(min(30, clip.seconds()))
-        clip.stop()
-
-        # def alarm(sound=None, type=None):
-        #     THIS_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__)))
-        #
-        # def get_speed_sound(level):
-        #     speed_level_sound_obj = {
-        #         0: '0_Blop-Mark_DiAngelo-79054334.mp3',
-        #         1: '1_Cartoon Walking-SoundBible.com-2130722123.mp3',
-        #         2: '2_Fast_Heel_Walk-Kyanna_Johnson-1646343608.mp3',
-        #         3: '3_Galloping Horse-SoundBible.com-1411555122.mp3',
-        #         4: '4_CarAcceleratingSoundBible.com-28596349.mp3',
-        #         5: '5_Train_Approach_n_Pass-Mike_Koenig-678807208.mp3',
-        #         6: '6_Healicopter_Approach-Mike_Koenig-1395051800.mp3',
-        #     }
-        #     sound_path = os.path.abspath(os.path.join(THIS_DIR, 'sounds', 'SPEED', speed_level_sound_obj[level]))
-        #     return sound_path
-        #
-        # def get_speak_sound(level):
-        #     spoken_sound_obj = {
-        #         0: 'mniejniz2km.mp3',
-        #         1: 'mniejniz4.mp3',
-        #         2: 'objectsiezbliza.mp3',
-        #         3: 'objectsiezblizaszybko.mp3',
-        #         4: 'objektznajdujesiewodleglosc.mp3'
-        #     }
-        #
-        #     sound_path = os.path.abspath(os.path.join(THIS_DIR, 'sounds', 'SPEAK', spoken_sound_obj[level]))
-        #     return sound_path
-        #
-        # def get_alarm_sound(level):
-        #     alarm_sound_obj = {
-        #         0: '0_Woosh-Mark_DiAngelo-4778593.mp3',
-        #         1: '1_35752^CarAlarmSet.mp3',
-        #         2: '2_91540^caralarm.mp3',
-        #         3: '3_24483^pchick-alarm.mp3',
-        #         4: '4_71766^alarm.mp3',
-        #         5: '5_44216^alarm.mp3',
-        #         6: '6_86502^alarm.mp3',
-        #         7: '7_97744^ALARM.mp3'
-        #     }
-        #
-        #     sound_path = os.path.abspath(os.path.join(THIS_DIR, 'sounds', 'ALARMS', alarm_sound_obj[level]))
-        #     return sound_path
-        #
-        # def playerOLD(filename):
-        #     clip = mp3play.load(filename)
-        #     clip.play()
-        #     time.sleep(min(30, clip.seconds()))
-        #     clip.stop()
-        #
-        # def player(filename):
-        #     thread_cam = SoundThread(filename)
-        #     thread_cam.start()
-        #
-        #     # clip = mp3play.load(filename)
-        #     # clip.play()
-        #     # time.sleep(min(30, clip.seconds()))
-        #     # clip.stop()
-        #
-        # if type == "speed":
-        #     log("speed alarm nr:" + str(sound))
-        #     player(get_speed_sound(sound))
-        # elif type == "speak":
-        #     log("speed alarm nr:" + str(sound))
-        #     player(get_speak_sound(sound))
-        # else:
-        #     log("alarm nr:" + str(sound))
-        #     player(get_alarm_sound(sound))
-
-
-def alarm(sound=None, type=None):
-    log("[ALARM][Start]input: sound->", sound if sound is not None else "NONE", " type->", type if type is not None else "NONE")
-    THIS_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__)))
-
-    def clear_input(var):
-        log("[ALARM][INPUT CLEANER]input:", var)
-        try:
-            if isinstance(var, numbers.Integral):
-                log("[ALARM][INPUT CLEANER][RETURN INT]input:", var)
-                return var
-            else:
-                temp = " " + var
-                if temp.find(",") > 0:
-                    return temp.replace(",", "").strip()
-                else:
-                    return temp.replace(",", "").strip()
-        except Exception as e:
-            print InputCleaningException
-            raise InputCleaningException(e)
-
-    sound = clear_input(sound)
-    type = clear_input(type)
-    log("[ALARM][cleaned input]input: sound->", sound if sound is not None else "NONE", " type->", type if type is not None else "NONE")
-
-    def get_speed_sound(level):
-        speed_level_sound_obj = {
-            0: '0_Blop-Mark_DiAngelo-79054334.mp3',
-            1: '1_Cartoon Walking-SoundBible.com-2130722123.mp3',
-            2: '2_Fast_Heel_Walk-Kyanna_Johnson-1646343608.mp3',
-            3: '3_Galloping Horse-SoundBible.com-1411555122.mp3',
-            4: '4_CarAcceleratingSoundBible.com-28596349.mp3',
-            5: '5_Train_Approach_n_Pass-Mike_Koenig-678807208.mp3',
-            6: '6_Healicopter_Approach-Mike_Koenig-1395051800.mp3',
-            7: '6_Healicopter_Approach-Mike_Koenig-1395051800.mp3',
-        }
-        sound_path = os.path.abspath(os.path.join(THIS_DIR, 'sounds', 'SPEED', speed_level_sound_obj[level]))
-        return sound_path
-
-    def get_speak_sound(level):
-        spoken_sound_obj = {
-            0: 'mniejniz2km.mp3',
-            1: 'mniejniz4.mp3',
-            2: 'objectsiezbliza.mp3',
-            3: 'objectsiezblizaszybko.mp3',
-            4: 'objektznajdujesiewodleglosc.mp3'
-        }
-
-        sound_path = os.path.abspath(os.path.join(THIS_DIR, 'sounds', 'SPEAK', spoken_sound_obj[level]))
-        return sound_path
-
-    def get_alarm_sound(level):
-        alarm_sound_obj = {
-            0: '0_Woosh-Mark_DiAngelo-4778593.mp3',
-            1: '1_35752^CarAlarmSet.mp3',
-            2: '2_91540^caralarm.mp3',
-            3: '3_24483^pchick-alarm.mp3',
-            4: '4_71766^alarm.mp3',
-            5: '5_44216^alarm.mp3',
-            6: '6_86502^alarm.mp3',
-            7: '7_97744^ALARM.mp3'
-        }
-
-        sound_path = os.path.abspath(os.path.join(THIS_DIR, 'sounds', 'ALARMS', alarm_sound_obj[level]))
-        return sound_path
-
-    def player(filename):
-        clip = mp3play.load(filename)
-        clip.play()
-        time.sleep(min(30, clip.seconds()))
-        clip.stop()
-        #
-        # def player(filename):
-        #     thread_cam = SoundThread(filename)
-        #     thread_cam.start()
-
-        # clip = mp3play.load(filename)
-        # clip.play()
-        # time.sleep(min(30, clip.seconds()))
-        # clip.stop()
-
-    if type == "speed":
-        log("speed alarm nr:" + str(sound))
-        player(get_speed_sound(sound))
-    elif type == "speak":
-        log("speed alarm nr:" + str(sound))
-        player(get_speak_sound(sound))
-    else:
-        log("alarm nr:" + str(sound))
-        player(get_alarm_sound(sound))
-
-
 def runner():
     def get_location():
         try:
-            print "GET LOCATION"
             location = api.iphone.location()
             if len(location) > 0:
                 print "[LOCATION OBJECT SUCCESSFULLY RECEIVED FROM ICLOUD API!]"
@@ -384,87 +156,92 @@ def runner():
             try:
                 print "[next try get location object from icloud api -> remaining 30 sec][e:", str(e), "]"
             except Exception as e:
-                print "[next try get location object from icloud api -> remaining 30 sec][e:", e.encode("utf8"), "]"
+                print "[next try get location object from icloud api -> remaining 30 sec][e:", str(e).encode("utf8"), "]"
             time.sleep(30)
             return get_location()
 
     def get_speed_level(difference):
         log("[GET SPEED LEVEL]")
-        speed_level_obj = {
-            0: "no_motion",
-            1: "veryslow",
-            2: "slow",
-            3: "mid",
-            4: "fast",
-            5: "veryfast",
-            6: "ultrafast"
-        }
 
         def out(level):
-            log("[Speed level => " + speed_level_obj[level])
-            return level
+            log("[Speed level => " + str(level))
+            return str(level)
 
-        if difference < 20:
+        if difference < 18:
             return out(0)
         elif difference < 30:
             return out(1)
-        elif difference < 40:
+        elif difference < 45:
             return out(2)
-        elif difference < 50:
+        elif difference < 100:
             return out(3)
-        elif difference < 70:
+        elif difference < 200:
             return out(4)
-        elif difference < 150:
+        elif difference < 300:
             return out(5)
         else:
             return out(6)
 
-    def get_interval(difference, curr_distance_obj, interval=None):
-        log("[GET_INTERVAL][START] input: ", 'diff:', str(difference), "  curr_dist:", str(curr_distance_obj), "interval:",
-            str(interval if interval is not None else "none"))
-        last_interval = interval
-        speed_level = get_speed_level(difference)
-        base = 120
+    def get_distance_level(distance):
+        log("[GET DISTANCE LEVEL]")
+        dist = int(distance)
 
-        def check_distance_is_valid_int(curr_distance_obj):
+        def out(level):
+            log("[Distance level => " + str(level))
+            return str(level)
+
+        if dist < 1000:
+            return out(0)
+        elif dist < 2000:
+            return out(1)
+        elif dist < 3000:
+            return out(2)
+        elif dist < 4000:
+            return out(3)
+        elif dist < 5000:
+            return out(4)
+        elif dist < 6000:
+            return out(5)
+        elif dist < 7000:
+            return out(6)
+        elif dist < 8000:
+            return out(7)
+        elif dist < 9000:
+            return out(8)
+        elif dist < 10000:
+            return out(9)
+        else:
+            return out(10)
+
+    def get_interval(difference, distance_input, interval=None):
+        log("[GET_INTERVAL]in: ", 'diff:', str(difference), "  dist:", str(distance_input), "inter:", str(interval if interval is not None else "none"))
+        distance=int(distance_input)
+
+        def check_distance_is_valid_int(distance):
             try:
-                int(curr_distance_obj['vincent'])
+                int(distance)
                 return True
             except Exception:
                 return False
 
-        if speed_level > 0:
-            base_interval = base / speed_level
-        else:
-            base_interval = 180
-
-        if check_distance_is_valid_int(curr_distance_obj):
+        if check_distance_is_valid_int(distance):
             try:
-                if int(curr_distance_obj['vincent']) < 1500:
-                    new_interval = [base_interval / 2, 0, speed_level]
-                elif int(curr_distance_obj['vincent']) < 5000:
-                    new_interval = [base_interval, 1, speed_level]
-                elif int(curr_distance_obj['vincent']) < 10000:
-                    new_interval = [base_interval * 2, 2, speed_level]
-                elif int(curr_distance_obj['vincent']) < 20000:
-                    new_interval = [base_interval * 3, 3, speed_level]
-                elif int(curr_distance_obj['vincent']) < 40000:
-                    new_interval = [base_interval * 4, 4, speed_level]
-                elif int(curr_distance_obj['vincent']) < 60000:
-                    new_interval = [base_interval * 5, 5, speed_level]
-                elif int(curr_distance_obj['vincent']) < 100000:
-                    new_interval = [base_interval * 10, 6, speed_level]
+                if distance < 1100:
+                    return 25
+                elif distance > 7000:
+                    return 90
+                elif difference < 22:
+                    return 60
                 else:
-                    new_interval = [60 * 60, 7]
-                log("[GET_INTERVAL][END] returning: ", str(new_interval))
-                return new_interval
+                    return 40
+
             except Exception:
                 log("[GET_INTERVAL][Exception!]returning default:[60,0]")
-                return [60, 0]
+                return 60
 
         else:
             log("INTERVAL NO VALID INT RETURNING DEFAULT [60,0]")
-            return [60, 0]
+            return 60
 
     def printer(counter, interval, difference, distance, adres=None):
         output = "\n[ " + str(counter) + " ][i:" + str(interval) + "][Diff: " + str(int(difference)) + " ][Dist: "
@@ -473,12 +250,12 @@ def runner():
             output += "[Adres: " + adres + "]"
         try:
             print output
-        except Exception as e:
-            # print e
+        except Exception:
             try:
                 print output.encode('utf8')
-            except Exception as e:
-                log("[PRINTER EXCEPTION]e:"+e)
+            except Exception as printer_exception:
+                log("[PRINTER EXCEPTION]:")
+                print printer_exception
 
         try:
             fo = open("log.txt", "a")
@@ -489,111 +266,76 @@ def runner():
                 fo = open("log.txt", "a")
                 fo.write(str(datetime.datetime.now()) + "::::" + output.encode("utf8") + "\n")
                 fo.close()
-            except Exception as ee:
-                log("[PRINTER EXCEPTION]e:"+ee)
+            except Exception as printer_exception:
+                log("[PRINTER EXCEPTION]:")
+                print printer_exception
 
     def main_loop(current_location_obj):
-        log("[MAIN LOOP][INIT]")
+        """
+        PyICloud distance checker main interval loo
+        :param current_location_obj:
+        :return: icloud device location and moving information's via console log and sound play
+        """
+
         interval, counter = 60, 0
         last_distance_obj = current_location_obj
-
-        def speed_alarm(speed_level):
-            try:
-                alarm(speed_level, "speed")
-            except Exception:
-                raise AlarmException("raise_ALARM_exception")
 
         while True:
             counter += 1
             log("[MAIN LOOP][counter" + str(counter) + "]")
+
+            # GET LOCATION OBJECT FROM ICLOUD
             log("[MAIN LOOP][API IPHONE]")
             location = api.iphone.location()
+
+            # GET CURRENT DISTANCE FROM RECEIVED ICLOUD OBJECT
             log("[MAIN LOOP][CURRENT DISTANCE]")
             curr_distance_obj = distance_handler(location)
-            log("[MAIN LOOP][DIFFERENCE]")
+
+            # CALCULATE DISTANCE DIFFERENCE
             difference = abs(curr_distance_obj['vincent'] - last_distance_obj['vincent'])
+            log("[MAIN LOOP][DIFFERENCE:" + str(difference) + "]")
+
+            try:  # GET DISTANCE LEVEL
+                distance = str(curr_distance_obj['vincent'])[:str(curr_distance_obj['vincent']).find(".")]
+                distance_level = get_distance_level(distance)
+            except Exception as e:
+                print "[DISTANCE ERROR EXCEPTION]"
+                distance_level, distance = "0", "0"
+
+                print e.message
+
+            try:  # GET SPEED LEVEL
+                speed_level = get_speed_level(difference)
+            except Exception as e:
+                print "[SPEED CALCULATION ERROR EXCEPTION]"
+                speed_level = "0"
+                print e.message
+
+            # CHECK INTERVAL
             log("[MAIN LOOP][INTERVAL]")
             try:
-                # interval = get_interval(difference, curr_distance_obj, interval)[0]
-                interval = 30
-                # interval_level = get_interval(difference, curr_distance_obj, interval)[1]
-                log("[MAIN LOOP][DSPEED LEVEL]")
-                speed_level = get_interval(difference, curr_distance_obj, interval)[1]
+                interval = get_interval(difference, distance, interval)
+
             except Exception:
                 raise IntervalException("raise_INTERVAL_exception")
-            log("[MAIN LOOP][ALARM]")
-            # try:
-            #     # thread_cam = SoundThread(speed_level, "speed")
-            #     # thread_cam.start()
-            #     alarm(speed_level, "speed")
-            #     # print "odpalono threada"
-            #     # alarm(interval_level, "")
-            # except Exception:
-            #     raise AlarmException("raise_ALARM_exception")
 
-            log("[MAIN LOOP][PRINTER]")
-            try:
+            try:  # PRINT CONSOLE OUTPUT
                 printer(counter, interval, difference, curr_distance_obj['vincent'], curr_distance_obj['adres'])
             except Exception as e:
+                print "[PRINTER ERROR EXCEPTION]"
+                print e.message
+
+            try:  # PLAY SOUND INFO
+                sound_processor.play(distance_level, "distance")
+                time.sleep(1)
+                sound_processor.play(speed_level, "speed")
+            except Exception as e:
+                print "[SOUND PLAYER ERROR EXCEPTION]"
                 print e.message
 
 
-            speed_alarm(speed_level)
-
-
-                # # OBJECT IS MOVING FAST!
-                # if float(difference) > 100.0:
-                #     print 20 * "---"
-                #     print "\n\n" + 20 * "!X![difference>100!X!" + "\n\n"
-                #     alarm(2)
-                #
-                # # OBJECT IS NOT MOVING
-                # if float(difference) < 5.0:
-                #     print "[", str(counter), "][R<1m][BEZ ZMIAN][ODLEGLOSC:", str(
-                #         curr_distance_obj['vincent']), "difference:  ", str(
-                #         difference), "  ]", "   >", curr_distance_obj['adres']
-                #     alarm(1)
-                # else:
-                #     # OBJECT IS APPROACHING
-                #     if curr_distance_obj['vincent'] < last_distance_obj['vincent']:
-                #
-                #         if float(difference) < 20.0:
-                #             alarm(3)
-                #             print "!PONAD 20 METROW!!!UWAGA[", str(
-                #                 counter), "][R>1m][OBJEKT SIE ZBLIZA!!!!],[ODLEGLOSC:", str(
-                #                 curr_distance_obj['vincent']), " [difference::::>  ", str(difference), "  ]   >", \
-                #                 curr_distance_obj['adres'], "\n"
-                #         elif float(difference) < 30.0:
-                #             print "\n!!!!!!!!!!!!!! 20- 30 METROW)\nUWAGA[", str(
-                #                 COUNTER), "][R>1m][OBJEKT SIE ZBLIZA!!!!],[ODLEGLOSC:", str(
-                #                 curr_distance_obj['vincent']), " [difference::::>  ", str(difference), "  ]   >", \
-                #                 curr_distance_obj['adres']
-                #             alarm(0)
-                #         else:
-                #
-                #             alarm(4)
-                #             print "\n\n" + 500 * "!!!" + "\n\n"
-                #             print "UWAGA PONAD 30M na minute[", str(
-                #                 COUNTER), "][R>1m][OBJEKT SIE ZBLIZA!!!!],[ODLEGLOSC:", str(
-                #                 curr_distance_obj['vincent']), " [difference::::>  ", str(difference), "  ]   >", \
-                #                 curr_distance_obj['adres']
-
-                #     # UNDER 2000 METER
-                #     if curr_distance_obj['vincent'] < 2000:
-                #         alarm(6)
-                #         alarm(100, 0)
-                #         print "\n MNIEJ NIZ 2 KM ZOSTALO!!!!\n"
-                #
-                # # OBJECT IS MOVING AWAY!
-                # else:
-                #     print "UWAGA[", str(counter), "][R>1m][OBJEKT SIE ODDALA!][ODLEGLOSC:", str(
-                #         curr_distance_obj['vincent']), "  [difference:  ", str(difference), "  ]   >", \
-                #         curr_distance_obj['adres']
-                #     alarm(5)
-            # print "INTERVAL:", str(interval)
-
-            # time.sleep(interval)
-            utils.timecounter(60)
+            utils.timecounter(interval)
             last_distance_obj = curr_distance_obj
 
     # LOOP STARTER

@@ -47,7 +47,7 @@ def check_if_int(input):
         return False
 
 def log(*args):
-    if settings.DEBUG_CONSOLE_LOGS is True:
+    if settings.DEBUGGING is True:
         # print "...................logger START"
         arg_list=[]
 
@@ -165,7 +165,7 @@ def timecounter(interval):
         #
 
         # def log(*args):
-        #     if DEBUG_CONSOLE_LOGS is True:
+        #     if DEBUGGING is True:
         #         try:
         #             print('[debug log]: %s' % (
         #                 ', '.join(['%s' % et for et in args]),

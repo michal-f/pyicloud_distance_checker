@@ -2814,3 +2814,801 @@
 [ 14 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
 2016-07-01 16:43:35.090000::::
 [ 15 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:23:04.228000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:24:05.699000::::
+[ 2 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:25:06.620000::::
+[ 3 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:26:07.566000::::
+[ 4 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:27:08.501000::::
+[ 5 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:28:09.469000::::
+[ 6 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:29:10.484000::::
+[ 7 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:30:11.984000::::
+[ 8 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:31:12.890000::::
+[ 9 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:32:13.795000::::
+[ 10 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:33:14.838000::::
+[ 11 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:34:17.423000::::
+[ 12 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:35:20.138000::::
+[ 13 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:36:21.064000::::
+[ 14 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:37:22.110000::::
+[ 15 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:38:23.416000::::
+[ 16 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:39:24.422000::::
+[ 17 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:40:25.366000::::
+[ 18 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:41:26.297000::::
+[ 19 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:42:27.221000::::
+[ 20 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:43:28.827000::::
+[ 21 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:44:29.790000::::
+[ 22 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:45:30.718000::::
+[ 23 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:46:31.641000::::
+[ 24 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:47:32.576000::::
+[ 25 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:48:33.474000::::
+[ 26 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:49:34.381000::::
+[ 27 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:50:35.385000::::
+[ 28 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:51:36.267000::::
+[ 29 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:52:37.130000::::
+[ 30 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:53:37.998000::::
+[ 31 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:54:39.035000::::
+[ 32 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:55:39.971000::::
+[ 33 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:56:41.075000::::
+[ 34 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:57:42.030000::::
+[ 35 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:58:43.080000::::
+[ 36 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 19:59:44.059000::::
+[ 37 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:00:44.948000::::
+[ 38 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:01:45.971000::::
+[ 39 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:02:47.051000::::
+[ 40 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:03:48.777000::::
+[ 41 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:04:49.855000::::
+[ 42 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:05:50.768000::::
+[ 43 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:06:51.895000::::
+[ 44 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:07:52.832000::::
+[ 45 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:08:53.749000::::
+[ 46 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:09:54.632000::::
+[ 47 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:10:55.475000::::
+[ 48 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:11:56.326000::::
+[ 49 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:12:57.248000::::
+[ 50 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:13:58.371000::::
+[ 51 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:14:59.414000::::
+[ 52 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:16:00.593000::::
+[ 53 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:17:01.789000::::
+[ 54 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:18:02.681000::::
+[ 55 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:19:03.698000::::
+[ 56 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:20:04.783000::::
+[ 57 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:21:05.699000::::
+[ 58 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:22:06.717000::::
+[ 59 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:23:07.575000::::
+[ 60 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:24:08.514000::::
+[ 61 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:25:09.579000::::
+[ 62 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:26:10.542000::::
+[ 63 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:27:11.469000::::
+[ 64 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:28:14.336000::::
+[ 65 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:29:15.250000::::
+[ 66 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:30:16.217000::::
+[ 67 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:31:17.050000::::
+[ 68 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:32:18.200000::::
+[ 69 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:33:19.172000::::
+[ 70 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:34:20.692000::::
+[ 71 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:35:22.367000::::
+[ 72 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:36:23.276000::::
+[ 73 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:37:25.562000::::
+[ 74 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:38:26.423000::::
+[ 75 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:39:27.320000::::
+[ 76 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:40:28.835000::::
+[ 77 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:41:29.699000::::
+[ 78 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:42:30.815000::::
+[ 79 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:43:31.773000::::
+[ 80 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:44:32.755000::::
+[ 81 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:45:34.132000::::
+[ 82 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:46:35.068000::::
+[ 83 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:47:35.958000::::
+[ 84 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:48:36.842000::::
+[ 85 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:49:37.718000::::
+[ 86 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:50:38.759000::::
+[ 87 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:51:39.703000::::
+[ 88 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:52:41.103000::::
+[ 89 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:53:42.208000::::
+[ 90 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:54:44.244000::::
+[ 91 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:55:45.201000::::
+[ 92 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:56:46.221000::::
+[ 93 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:57:47.078000::::
+[ 94 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:58:47.945000::::
+[ 95 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 20:59:48.977000::::
+[ 96 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:00:50.045000::::
+[ 97 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:01:51.085000::::
+[ 98 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:02:52.925000::::
+[ 99 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:03:56.497000::::
+[ 100 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:05:00.131000::::
+[ 101 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:06:01.346000::::
+[ 102 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:07:02.396000::::
+[ 103 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:08:03.808000::::
+[ 104 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:09:04.681000::::
+[ 105 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:10:05.583000::::
+[ 106 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:11:06.570000::::
+[ 107 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:12:07.639000::::
+[ 108 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:13:08.763000::::
+[ 109 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:14:10.118000::::
+[ 110 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:15:12.055000::::
+[ 111 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:16:13.276000::::
+[ 112 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:17:15.420000::::
+[ 113 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:18:19.876000::::
+[ 114 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:19:22.499000::::
+[ 115 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:20:23.383000::::
+[ 116 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:21:24.257000::::
+[ 117 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:22:25.091000::::
+[ 118 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:23:25.922000::::
+[ 119 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:24:26.915000::::
+[ 120 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:25:28.540000::::
+[ 121 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:26:29.600000::::
+[ 122 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:27:30.451000::::
+[ 123 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:28:31.398000::::
+[ 124 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:29:32.290000::::
+[ 125 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:30:33.185000::::
+[ 126 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:31:34.185000::::
+[ 127 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:32:35.056000::::
+[ 128 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:33:35.932000::::
+[ 129 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:34:36.861000::::
+[ 130 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:35:38.917000::::
+[ 131 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-01 21:36:39.913000::::
+[ 132 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-02 01:40:33.409000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-02 01:41:34.726000::::
+[ 2 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-02 01:42:35.692000::::
+[ 3 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-02 01:43:36.839000::::
+[ 4 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-02 01:44:37.701000::::
+[ 5 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-02 01:45:38.607000::::
+[ 6 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-02 01:46:39.528000::::
+[ 7 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-02 01:47:40.468000::::
+[ 8 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-02 01:48:41.344000::::
+[ 9 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-02 01:49:42.211000::::
+[ 10 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-02 01:50:43.197000::::
+[ 11 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-02 01:51:44.159000::::
+[ 12 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-02 01:52:45.110000::::
+[ 13 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-02 01:53:46.181000::::
+[ 14 ][i:30][Diff: 0 ][Dist: 11][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-07-02 21:00:36.099000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 596][Adres: Skwer Sue Ryder, Promenada Prezydenta Ryszarda Kaczorowskiego, Kamienna Góra, Gdynia, pomorskie, 81-377, Polska]
+2016-07-02 21:01:37.822000::::
+[ 2 ][i:30][Diff: 7254 ][Dist: 7850][Adres: G, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:03:13.083000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 7907][Adres: G, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:04:18.036000::::
+[ 2 ][i:30][Diff: 1 ][Dist: 7909][Adres: G, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:05:23.047000::::
+[ 3 ][i:30][Diff: 9 ][Dist: 7919][Adres: G, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:06:28.079000::::
+[ 4 ][i:30][Diff: 7 ][Dist: 7927][Adres: G, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:07:34.835000::::
+[ 5 ][i:30][Diff: 14 ][Dist: 7941][Adres: G, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:08:39.911000::::
+[ 6 ][i:30][Diff: 0 ][Dist: 7941][Adres: G, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:09:44.799000::::
+[ 7 ][i:30][Diff: 16 ][Dist: 7957][Adres: G, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:10:49.729000::::
+[ 8 ][i:30][Diff: 15 ][Dist: 7972][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:11:54.615000::::
+[ 9 ][i:30][Diff: 11 ][Dist: 7984][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:12:59.986000::::
+[ 10 ][i:30][Diff: 5 ][Dist: 7978][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:14:05.191000::::
+[ 11 ][i:30][Diff: 14 ][Dist: 7964][Adres: G, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:15:10.103000::::
+[ 12 ][i:30][Diff: 3 ][Dist: 7968][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:16:15.006000::::
+[ 13 ][i:30][Diff: 11 ][Dist: 7957][Adres: G, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:17:19.916000::::
+[ 14 ][i:30][Diff: 1 ][Dist: 7958][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:18:26.900000::::
+[ 15 ][i:30][Diff: 27 ][Dist: 7986][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:19:31.806000::::
+[ 16 ][i:30][Diff: 20 ][Dist: 7966][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:20:36.733000::::
+[ 17 ][i:30][Diff: 0 ][Dist: 7967][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:21:41.634000::::
+[ 18 ][i:30][Diff: 23 ][Dist: 7990][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:22:46.560000::::
+[ 19 ][i:30][Diff: 15 ][Dist: 7975][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:23:51.512000::::
+[ 20 ][i:30][Diff: 0 ][Dist: 7974][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:24:56.385000::::
+[ 21 ][i:30][Diff: 0 ][Dist: 7974][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:26:01.287000::::
+[ 22 ][i:30][Diff: 0 ][Dist: 7974][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:27:08.065000::::
+[ 23 ][i:30][Diff: 0 ][Dist: 7974][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:28:13.053000::::
+[ 24 ][i:30][Diff: 0 ][Dist: 7974][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:29:20.480000::::
+[ 25 ][i:30][Diff: 166 ][Dist: 8140][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:30:25.411000::::
+[ 26 ][i:30][Diff: 1 ][Dist: 8141][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:31:30.319000::::
+[ 27 ][i:30][Diff: 12 ][Dist: 8154][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:32:35.324000::::
+[ 28 ][i:30][Diff: 13 ][Dist: 8140][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:33:40.203000::::
+[ 29 ][i:30][Diff: 9 ][Dist: 8131][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:34:45.287000::::
+[ 30 ][i:30][Diff: 0 ][Dist: 8131][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:35:50.223000::::
+[ 31 ][i:30][Diff: 0 ][Dist: 8131][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:36:55.247000::::
+[ 32 ][i:30][Diff: 0 ][Dist: 8131][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:38:00.247000::::
+[ 33 ][i:30][Diff: 0 ][Dist: 8131][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:39:05.321000::::
+[ 34 ][i:30][Diff: 27 ][Dist: 8103][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:40:11.542000::::
+[ 35 ][i:30][Diff: 0 ][Dist: 8103][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:41:16.463000::::
+[ 36 ][i:30][Diff: 0 ][Dist: 8103][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:42:21.387000::::
+[ 37 ][i:30][Diff: 0 ][Dist: 8103][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:43:26.273000::::
+[ 38 ][i:30][Diff: 0 ][Dist: 8103][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:44:32.108000::::
+[ 39 ][i:30][Diff: 0 ][Dist: 8103][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:45:37.113000::::
+[ 40 ][i:30][Diff: 0 ][Dist: 8103][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:46:42.037000::::
+[ 41 ][i:30][Diff: 0 ][Dist: 8103][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:47:46.946000::::
+[ 42 ][i:30][Diff: 2 ][Dist: 8106][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:48:52.122000::::
+[ 43 ][i:30][Diff: 0 ][Dist: 8107][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:49:58.626000::::
+[ 44 ][i:30][Diff: 7 ][Dist: 8100][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:51:03.583000::::
+[ 45 ][i:30][Diff: 1 ][Dist: 8101][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:52:08.475000::::
+[ 46 ][i:30][Diff: 13 ][Dist: 8115][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:53:13.371000::::
+[ 47 ][i:30][Diff: 7 ][Dist: 8108][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:54:18.624000::::
+[ 48 ][i:30][Diff: 1 ][Dist: 8106][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:55:23.895000::::
+[ 49 ][i:30][Diff: 1 ][Dist: 8105][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:56:29.490000::::
+[ 50 ][i:30][Diff: 2 ][Dist: 8102][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:57:35.295000::::
+[ 51 ][i:30][Diff: 5 ][Dist: 8108][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:58:40.794000::::
+[ 52 ][i:30][Diff: 1 ][Dist: 8107][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 21:59:45.809000::::
+[ 53 ][i:30][Diff: 5 ][Dist: 8113][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:00:52.157000::::
+[ 54 ][i:30][Diff: 4 ][Dist: 8108][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:01:57.509000::::
+[ 55 ][i:30][Diff: 16 ][Dist: 8125][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:03:02.493000::::
+[ 56 ][i:30][Diff: 46 ][Dist: 8079][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:04:07.466000::::
+[ 57 ][i:30][Diff: 13 ][Dist: 8092][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:05:12.936000::::
+[ 58 ][i:30][Diff: 0 ][Dist: 8091][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:06:17.944000::::
+[ 59 ][i:30][Diff: 1 ][Dist: 8092][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:07:22.918000::::
+[ 60 ][i:30][Diff: 10 ][Dist: 8103][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:08:27.860000::::
+[ 61 ][i:30][Diff: 1 ][Dist: 8101][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:09:32.751000::::
+[ 62 ][i:30][Diff: 4 ][Dist: 8106][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:10:37.647000::::
+[ 63 ][i:30][Diff: 17 ][Dist: 8088][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:11:42.538000::::
+[ 64 ][i:30][Diff: 28 ][Dist: 8116][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:12:47.448000::::
+[ 65 ][i:30][Diff: 19 ][Dist: 8097][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:13:52.776000::::
+[ 66 ][i:30][Diff: 5 ][Dist: 8091][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:14:57.974000::::
+[ 67 ][i:30][Diff: 4 ][Dist: 8095][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:16:02.998000::::
+[ 68 ][i:30][Diff: 1 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:17:07.934000::::
+[ 69 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:18:13.038000::::
+[ 70 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:19:17.941000::::
+[ 71 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:20:22.841000::::
+[ 72 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:21:27.733000::::
+[ 73 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:22:32.613000::::
+[ 74 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:23:37.564000::::
+[ 75 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:24:42.491000::::
+[ 76 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:25:47.840000::::
+[ 77 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:26:52.923000::::
+[ 78 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:27:57.947000::::
+[ 79 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:29:02.889000::::
+[ 80 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:30:08.386000::::
+[ 81 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:31:13.461000::::
+[ 82 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:32:18.352000::::
+[ 83 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:33:23.258000::::
+[ 84 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:34:28.197000::::
+[ 85 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:35:33.086000::::
+[ 86 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:36:38.057000::::
+[ 87 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:37:42.996000::::
+[ 88 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:38:47.934000::::
+[ 89 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:39:52.932000::::
+[ 90 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:40:57.972000::::
+[ 91 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:42:02.886000::::
+[ 92 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:43:07.840000::::
+[ 93 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:44:13.002000::::
+[ 94 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:44:51.100000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:45:15.976000::::
+[ 2 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:45:40.785000::::
+[ 3 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:46:05.645000::::
+[ 4 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:46:30.679000::::
+[ 5 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:46:55.547000::::
+[ 6 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:47:08.327000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:47:33.119000::::
+[ 2 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:47:57.963000::::
+[ 3 ][i:30][Diff: 0 ][Dist: 8094][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:48:22.802000::::
+[ 4 ][i:30][Diff: 142 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:48:47.622000::::
+[ 5 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:49:12.427000::::
+[ 6 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:49:37.244000::::
+[ 7 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:50:02.084000::::
+[ 8 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:50:26.868000::::
+[ 9 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:50:51.681000::::
+[ 10 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:51:16.497000::::
+[ 11 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:51:41.306000::::
+[ 12 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:52:06.137000::::
+[ 13 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:52:31.122000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:52:55.994000::::
+[ 2 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:53:20.858000::::
+[ 3 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:53:45.717000::::
+[ 4 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:54:10.553000::::
+[ 5 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:54:35.377000::::
+[ 6 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:55:09.456000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:55:34.288000::::
+[ 2 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:55:59.108000::::
+[ 3 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:56:23.989000::::
+[ 4 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:58:07.544000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 7951][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:58:32.449000::::
+[ 2 ][i:30][Diff: 211 ][Dist: 8163][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:58:57.271000::::
+[ 3 ][i:30][Diff: 4 ][Dist: 8167][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:59:22.098000::::
+[ 4 ][i:30][Diff: 4 ][Dist: 8163][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 22:59:46.867000::::
+[ 5 ][i:30][Diff: 4 ][Dist: 8158][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:00:12.319000::::
+[ 6 ][i:30][Diff: 20 ][Dist: 8138][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:00:37.209000::::
+[ 7 ][i:30][Diff: 6 ][Dist: 8145][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:01:02.020000::::
+[ 8 ][i:30][Diff: 5 ][Dist: 8139][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:01:26.836000::::
+[ 9 ][i:30][Diff: 0 ][Dist: 8139][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:01:51.655000::::
+[ 10 ][i:30][Diff: 0 ][Dist: 8139][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:02:16.467000::::
+[ 11 ][i:30][Diff: 0 ][Dist: 8139][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:02:41.252000::::
+[ 12 ][i:30][Diff: 0 ][Dist: 8139][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:03:06.139000::::
+[ 13 ][i:30][Diff: 0 ][Dist: 8139][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:03:30.997000::::
+[ 14 ][i:30][Diff: 0 ][Dist: 8139][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:03:55.797000::::
+[ 15 ][i:30][Diff: 0 ][Dist: 8139][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:10:37.213000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 7969][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:11:04.448000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 7761][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:11:31.109000::::
+[ 2 ][i:30][Diff: 22 ][Dist: 7738][Adres: 2A, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:11:57.962000::::
+[ 3 ][i:30][Diff: 1 ][Dist: 7740][Adres: 2A, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:12:24.665000::::
+[ 4 ][i:30][Diff: 0 ][Dist: 7739][Adres: 2A, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:12:51.376000::::
+[ 5 ][i:30][Diff: 24 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:13:18.009000::::
+[ 6 ][i:30][Diff: 3 ][Dist: 7767][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:13:44.708000::::
+[ 7 ][i:30][Diff: 0 ][Dist: 7768][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:14:11.398000::::
+[ 8 ][i:30][Diff: 16 ][Dist: 7752][Adres: 2A, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:14:38.147000::::
+[ 9 ][i:30][Diff: 3 ][Dist: 7755][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:15:05.260000::::
+[ 10 ][i:30][Diff: 8 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:15:31.960000::::
+[ 11 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:15:58.203000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:16:31.107000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:16:53.171000::::
+[ 2 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:17:14.801000::::
+[ 3 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:17:36.458000::::
+[ 4 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:17:58.137000::::
+[ 5 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:18:19.774000::::
+[ 6 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:18:41.537000::::
+[ 7 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:19:03.220000::::
+[ 8 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:19:24.826000::::
+[ 9 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:19:46.642000::::
+[ 10 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:20:08.290000::::
+[ 11 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:20:29.919000::::
+[ 12 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:20:51.528000::::
+[ 13 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:21:13.194000::::
+[ 14 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:21:34.822000::::
+[ 15 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:21:56.448000::::
+[ 16 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:22:18.097000::::
+[ 17 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:22:39.741000::::
+[ 18 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:23:01.362000::::
+[ 19 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:23:23.026000::::
+[ 20 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:23:44.728000::::
+[ 21 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:24:06.358000::::
+[ 22 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:24:28.023000::::
+[ 23 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:24:49.639000::::
+[ 24 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:25:11.295000::::
+[ 25 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:25:32.949000::::
+[ 26 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:25:54.593000::::
+[ 27 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:26:16.206000::::
+[ 28 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:26:37.876000::::
+[ 29 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:26:59.499000::::
+[ 30 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:27:21.123000::::
+[ 31 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:27:42.799000::::
+[ 32 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:28:04.415000::::
+[ 33 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:28:26.037000::::
+[ 34 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:28:47.718000::::
+[ 35 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:29:09.328000::::
+[ 36 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:29:30.947000::::
+[ 37 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:29:52.602000::::
+[ 38 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:30:14.306000::::
+[ 39 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:30:35.934000::::
+[ 40 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:30:57.548000::::
+[ 41 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:31:19.212000::::
+[ 42 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:31:40.830000::::
+[ 43 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:32:02.479000::::
+[ 44 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:32:24.125000::::
+[ 45 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:32:45.830000::::
+[ 46 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:33:07.492000::::
+[ 47 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:33:29.274000::::
+[ 48 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:33:51.131000::::
+[ 49 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:34:12.757000::::
+[ 50 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:34:34.572000::::
+[ 51 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:34:56.275000::::
+[ 52 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:35:06.353000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:36:03.153000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:37:19.240000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:40:49.259000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:43:35.364000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:43:58.518000::::
+[ 2 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:44:20.161000::::
+[ 3 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:44:41.849000::::
+[ 4 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:45:03.551000::::
+[ 5 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:45:25.202000::::
+[ 6 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:45:46.899000::::
+[ 7 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:46:08.934000::::
+[ 8 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:46:30.584000::::
+[ 9 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:46:52.296000::::
+[ 10 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:47:13.944000::::
+[ 11 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:47:35.597000::::
+[ 12 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:47:57.277000::::
+[ 13 ][i:30][Diff: 0 ][Dist: 7764][Adres: J2, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:48:18.971000::::
+[ 14 ][i:30][Diff: 334 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:48:40.670000::::
+[ 15 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:49:02.367000::::
+[ 16 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:49:24.019000::::
+[ 17 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:49:45.727000::::
+[ 18 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:50:07.431000::::
+[ 19 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:50:29.125000::::
+[ 20 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:50:50.780000::::
+[ 21 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:51:12.551000::::
+[ 22 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:51:34.229000::::
+[ 23 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:51:55.935000::::
+[ 24 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:52:17.656000::::
+[ 25 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:52:39.427000::::
+[ 26 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:53:01.208000::::
+[ 27 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:53:22.887000::::
+[ 28 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:53:44.609000::::
+[ 29 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:54:07.635000::::
+[ 30 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:54:30.571000::::
+[ 31 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-02 23:54:52.271000::::
+[ 32 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 00:16:03.341000::::
+[ 1 ][i:30][Diff: 0 ][Dist: 8098][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 00:16:25.039000::::
+[ 2 ][i:30][Diff: 143 ][Dist: 8241][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 00:16:47.814000::::
+[ 3 ][i:30][Diff: 19 ][Dist: 8222][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 00:17:09.543000::::
+[ 4 ][i:30][Diff: 0 ][Dist: 8222][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 00:43:01.692000::::
+[ 1 ][i:90][Diff: 0 ][Dist: 8301][Adres: H, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 00:44:33.458000::::
+[ 2 ][i:90][Diff: 6 ][Dist: 8307][Adres: H, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 00:46:05.266000::::
+[ 3 ][i:90][Diff: 21 ][Dist: 8286][Adres: H, Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 00:47:37.107000::::
+[ 4 ][i:90][Diff: 108 ][Dist: 8177][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 00:49:08.865000::::
+[ 5 ][i:90][Diff: 79 ][Dist: 8097][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 00:50:40.615000::::
+[ 6 ][i:90][Diff: 80 ][Dist: 8017][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 00:52:12.328000::::
+[ 7 ][i:90][Diff: 0 ][Dist: 8017][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
+2016-07-03 00:53:44.034000::::
+[ 8 ][i:90][Diff: 0 ][Dist: 8017][Adres: Generała Władysława Andersa, Stare Obłuże, Kosakowo, gmina Kosakowo, powiat pucki, pomorskie, 81-198, Polska]
