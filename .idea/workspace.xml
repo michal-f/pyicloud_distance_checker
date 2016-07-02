@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84cb2b77-989b-4868-adc7-18a2fc2a2877" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="84cb2b77-989b-4868-adc7-18a2fc2a2877" name="Default" comment="Readme update,">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/checker.py" afterPath="$PROJECT_DIR$/checker.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log.txt" afterPath="$PROJECT_DIR$/log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.py" afterPath="$PROJECT_DIR$/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pyi2.iws" />
@@ -76,8 +72,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.6128755">
-                <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+              <first_editor vertical-scroll-proportion="0.098712444">
+                <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="43" selection-end-column="7" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -89,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/log.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -580,7 +576,13 @@
       <option name="project" value="LOCAL" />
       <updated>1467500101768</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Readme update, git ignore update,">
+      <created>1467501555254</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1467501555254</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -625,7 +627,8 @@
     <MESSAGE value="Exceptions" />
     <MESSAGE value="fixed - working&#10;" />
     <MESSAGE value="Main Loop REBUILD:&#10;- moved soundplayer class to separate file&#10;- created multithreaded sound player handler&#10;- added distance voice sounds&#10;- general code refactor and improvement in main class&#10;- fixed bugs, removed redundant code,&#10;[Development in progress - current release status: pre alfa, basic functionality working properly but many work to do :)]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main Loop REBUILD:&#10;- moved soundplayer class to separate file&#10;- created multithreaded sound player handler&#10;- added distance voice sounds&#10;- general code refactor and improvement in main class&#10;- fixed bugs, removed redundant code,&#10;[Development in progress - current release status: pre alfa, basic functionality working properly but many work to do :)]" />
+    <MESSAGE value="Readme update, git ignore update," />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme update, git ignore update," />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -875,7 +878,7 @@
     <entry file="file://$PROJECT_DIR$/log.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -946,8 +949,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.6128755">
-            <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+          <first_editor vertical-scroll-proportion="0.098712444">
+            <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="43" selection-end-column="7" />
             <folding />
           </first_editor>
           <second_editor />
