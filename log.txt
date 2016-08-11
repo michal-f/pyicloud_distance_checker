@@ -6528,3 +6528,12 @@
 [ 7 ][i:60][Diff: 0 ][Dist: 6869][Adres: 38, BohaterÃ³w Monte Cassino, Sopot Dolny, Sopot, pomorskie, 81-759, Polska]
 2016-08-11 01:13:13.505000::::
 [ 8 ][i:60][Diff: 4 ][Dist: 6864][Adres: 38, BohaterÃ³w Monte Cassino, Sopot Dolny, Sopot, pomorskie, 81-759, Polska]
+2016-08-11 02:19:49.964768::::
+[ 1 ][i:60][Diff: 0 ][Dist: 6870][Adres: 38, Bohaterów Monte Cassino, Sopot Dolny, Sopot, pomorskie, 81-759, Polska]2016-08-11 02:20:56.799473::::
+[ 2 ][i:40][Diff: 42 ][Dist: 6828][Adres: 42, Bohaterów Monte Cassino, Sopot Dolny, Sopot, pomorskie, 81-759, Polska]2016-08-11 02:21:43.806749::::
+[ 3 ][i:60][Diff: 2 ][Dist: 6830][Adres: 42, Bohaterów Monte Cassino, Sopot Dolny, Sopot, pomorskie, 81-759, Polska]2016-08-11 02:22:50.079577::::
+[ 4 ][i:60][Diff: 4 ][Dist: 6834][Adres: 36/2, Bohaterów Monte Cassino, Sopot Dolny, Sopot, pomorskie, 81-759, Polska]2016-08-11 02:24:00.334855::::
+[ 5 ][i:60][Diff: 9 ][Dist: 6843][Adres: PKO BP, Bohaterów Monte Cassino, Sopot Dolny, Sopot, pomorskie, 81-767, Polska]2016-08-11 02:25:10.639477::::
+[ 6 ][i:40][Diff: 37 ][Dist: 6881][Adres: 7, Genera³a Kazimierza Pu³askiego, Sopot Dolny, Sopot, pomorskie, 81-760, Polska]2016-08-11 02:25:52.942376::::
+[ 7 ][i:60][Diff: 0 ][Dist: 6881][Adres: 7, Genera³a Kazimierza Pu³askiego, Sopot Dolny, Sopot, pomorskie, 81-760, Polska]2016-08-11 02:26:56.332668::::
+[ 8 ][i:40][Diff: 24 ][Dist: 6857][Adres: 38, Bohaterów Monte Cassino, Sopot Dolny, Sopot, pomorskie, 81-759, Polska]

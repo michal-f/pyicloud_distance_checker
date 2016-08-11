@@ -58,7 +58,7 @@ def log(*args):
                 try:
                     arg_list.append(input.encode("utf8"))
                 except Exception as e:
-                    print e
+                    print(e)
 
         try:
             if len(args)>0:
@@ -73,21 +73,20 @@ def log(*args):
 
 
                     except Exception as e:
-                        print e
+                        print(e)
 
                 try:
                     print('<logger>: %s' % (
                         ', '.join(['%s' % et for et in arg_list]),
                     ))
                 except UnicodeDecodeError as e:
-                    print "LOG EXCEPTION UnicodeDecodeError!!:", e
+                    print("LOG EXCEPTION UnicodeDecodeError!!:", e)
 
             else:
-                print "NO ARGS TO PRINT"
-
+                print("NO ARGS TO PRINT")
 
         except Exception as e:
-            print "LOGGER ERROR"
+            print("LOGGER ERROR")
         # print "...................logger END"
 
 

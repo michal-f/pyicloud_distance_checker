@@ -34,12 +34,12 @@ def load_login_data():
     # fo = open('login', 'r').read().split(":")
     # LOGIN_DATA['login'] =
     # LOGIN_DATA['pass']
-    print "LOADED ICLOUD PROFILE: ", LOGIN_DATA['login'], ":", LOGIN_DATA['pass']
+    print("LOADED ICLOUD PROFILE: ", LOGIN_DATA['login'], ":", LOGIN_DATA['pass'])
 
 
 def temp_location():
     return {
-        'timeStamp': 1456687186509L,
+        'timeStamp': '1456687186509L',
         'locationFinished': True,
         'longitude': 18.5679437779063,
         'positionType': u'GPS',
@@ -141,17 +141,17 @@ def runner():
         try:
             location = api.iphone.location()
             if len(location) > 0:
-                print "[LOCATION OBJECT SUCCESSFULLY RECEIVED FROM ICLOUD API!]"
+                print("[LOCATION OBJECT SUCCESSFULLY RECEIVED FROM ICLOUD API!]")
                 return location
             else:
-                print "[next try get location object from icloud api -> remaining 30 sec]"
+                print("[next try get location object from icloud api -> remaining 30 sec]")
                 time.sleep(30)
                 return get_location()
         except Exception as e:
             try:
-                print "[next try get location object from icloud api -> remaining 30 sec][e:", str(e), "]"
+                print("[next try get location object from icloud api -> remaining 30 sec][e:", str(e), "]")
             except Exception as e:
-                print "[next try get location object from icloud api -> remaining 30 sec][e:", str(e).encode("utf8"), "]"
+                print("[next try get location object from icloud api -> remaining 30 sec][e:", str(e).encode("utf8"), "]")
             time.sleep(30)
             return get_location()
 
@@ -244,13 +244,13 @@ def runner():
         if adres is not None:
             output += "[Adres: " + adres + "]"
         try:
-            print output
+            print(output)
         except Exception:
             try:
-                print output.encode('utf8')
+                print(output.encode('utf8'))
             except Exception as printer_exception:
                 log("[PRINTER EXCEPTION]:")
-                print printer_exception
+                print(printer_exception)
 
         try:
             fo = open("log.txt", "a")
@@ -263,7 +263,7 @@ def runner():
                 fo.close()
             except Exception as printer_exception:
                 log("[PRINTER EXCEPTION]:")
-                print printer_exception
+                print(printer_exception)
 
     def main_loop(current_location_obj):
         """
@@ -295,17 +295,17 @@ def runner():
                 distance = str(curr_distance_obj['vincent'])[:str(curr_distance_obj['vincent']).find(".")]
                 distance_level = get_distance_level(distance)
             except Exception as e:
-                print "[DISTANCE ERROR EXCEPTION]"
+                print("[DISTANCE ERROR EXCEPTION]")
                 distance_level, distance = "0", "0"
 
-                print e.message
+                print(e.message)
 
             try:  # GET SPEED LEVEL
                 speed_level = get_speed_level(difference)
             except Exception as e:
-                print "[SPEED CALCULATION ERROR EXCEPTION]"
+                print("[SPEED CALCULATION ERROR EXCEPTION]")
                 speed_level = "0"
-                print e.message
+                print(e.message)
 
             # CHECK INTERVAL
             log("[MAIN LOOP][INTERVAL]")
@@ -318,16 +318,16 @@ def runner():
             try:  # PRINT CONSOLE OUTPUT
                 printer(counter, interval, difference, curr_distance_obj['vincent'], curr_distance_obj['adres'])
             except Exception as e:
-                print "[PRINTER ERROR EXCEPTION]"
-                print e.message
+                print("[PRINTER ERROR EXCEPTION]")
+                print(e.message)
 
             try:  # PLAY SOUND INFO
                 sound_processor.play(distance_level, "distance")
                 time.sleep(1)
                 sound_processor.play(speed_level, "speed")
             except Exception as e:
-                print "[SOUND PLAYER ERROR EXCEPTION]"
-                print e.message
+                print("[SOUND PLAYER ERROR EXCEPTION]")
+                print(e.message)
 
 
             utils.timecounter(interval)
@@ -337,13 +337,13 @@ def runner():
     load_login_data()
     api = PyiCloudService(LOGIN_DATA['login'], LOGIN_DATA['pass'])
 
-    print "[STARTING MAIN LOOP]"
+    print("[STARTING MAIN LOOP]")
     try:
         # print "start try main loop"
         # aa=distance_handler(get_location())
         main_loop(distance_handler(get_location()))
     except Exception as e:
-        print "FAILED MAIN LOOP STARTING E:"
+        print("FAILED MAIN LOOP STARTING E:")
         raise e
 
 

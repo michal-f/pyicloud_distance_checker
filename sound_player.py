@@ -46,8 +46,8 @@ def alarm(sound=None, type=None):
                 else:
                     return temp.replace(",", "").strip()
         except Exception as e:
-            print InputCleaningException
-            raise InputCleaningException(e)
+            print(InputCleaningException)
+            raise(InputCleaningException(e))
 
     sound = clear_input(sound)
     type = clear_input(type)
@@ -135,7 +135,7 @@ def alarm(sound=None, type=None):
 
 
 def player(level, type):
-    print "[Player][LEVEL: "+level+", TYPE: "+ type+ "]"
+    print("[Player][LEVEL: "+level+", TYPE: "+ type+ "]")
     try:
         alarm(int(level), type)
     except Exception:
@@ -145,5 +145,5 @@ if __name__ == "__main__":
     if len(sys.argv) > 2:
         player(sys.argv[1], sys.argv[2])
     else:
-        print "[Error-> 2 Parameters required -> level, sound_type]"
+        print("[Error-> 2 Parameters required -> level, sound_type]")
 

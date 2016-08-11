@@ -22,8 +22,8 @@ class SoundThread(threading.Thread):
                                   stdin=subprocess.PIPE, stdout=subprocess.PIPE, shell=False)
         stdout, stderr = output.communicate()
         if settings.DEBUGGING:
-            print stdout
-            print stderr
+            print(stdout)
+            print(stderr)
 
 
 def play(level, type):
@@ -32,7 +32,7 @@ def play(level, type):
 
 
 if __name__ == "__main__":
-    print ">!!SOUND PROCESSOR TEST!!<"
+    print(">!!SOUND PROCESSOR TEST!!<")
     play("0", "distance")
     play("1", "distance")
     play("2", "distance")
@@ -51,4 +51,4 @@ if __name__ == "__main__":
     play("4", "speed")
     play("5", "speed")
     play("6", "speed")
-    print ">!! EXITING SOUND PROCESSOR!!<"
+    print(">!! EXITING SOUND PROCESSOR!!<")
