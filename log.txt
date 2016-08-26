@@ -6536,4 +6536,5 @@
 [ 5 ][i:60][Diff: 9 ][Dist: 6843][Adres: PKO BP, Bohaterów Monte Cassino, Sopot Dolny, Sopot, pomorskie, 81-767, Polska]2016-08-11 02:25:10.639477::::
 [ 6 ][i:40][Diff: 37 ][Dist: 6881][Adres: 7, Genera³a Kazimierza Pu³askiego, Sopot Dolny, Sopot, pomorskie, 81-760, Polska]2016-08-11 02:25:52.942376::::
 [ 7 ][i:60][Diff: 0 ][Dist: 6881][Adres: 7, Genera³a Kazimierza Pu³askiego, Sopot Dolny, Sopot, pomorskie, 81-760, Polska]2016-08-11 02:26:56.332668::::
-[ 8 ][i:40][Diff: 24 ][Dist: 6857][Adres: 38, Bohaterów Monte Cassino, Sopot Dolny, Sopot, pomorskie, 81-759, Polska]
+[ 8 ][i:40][Diff: 24 ][Dist: 6857][Adres: 38, Bohaterów Monte Cassino, Sopot Dolny, Sopot, pomorskie, 81-759, Polska]2016-08-26 19:27:37.517000::::
+[ 1 ][i:60][Diff: 0 ][Dist: 2194][Adres: Cafe Strych, 7A, Plac Kaszubski, ÅšrÃ³dmieÅ›cie, Gdynia, pomorskie, 81-350, Polska]

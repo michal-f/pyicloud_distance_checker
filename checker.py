@@ -19,7 +19,7 @@ from geopy.distance import vincenty
 from geopy.distance import great_circle
 from utils import log
 from settings import *
-
+from tools.credentials_handler import CredentialInput
 LOGIN_DATA = {
     'login': '',
     'pass': ''
@@ -27,8 +27,13 @@ LOGIN_DATA = {
 
 
 def load_login_data():
-    logi = os.path.abspath(os.path.join(os.path.dirname(__file__), 'login_credentials.txt'))
-    fo = open(logi, 'r').read().split(":")
+    logincredentials = os.path.abspath(os.path.join(os.path.dirname(__file__), 'login_credentials.txt'))
+    # check if credential file exists, if no then get credentials
+    if not os.path.isfile(logincredentials):
+        print("NO CREDENTIAL FILE FOUND!")
+        credentialInput=CredentialInput()
+        credentialInput.get()
+    fo = open(logincredentials, 'r').read().split(":")
     LOGIN_DATA['login'] = fo[0]
     LOGIN_DATA['pass'] = fo[1]
     # fo = open('login', 'r').read().split(":")
