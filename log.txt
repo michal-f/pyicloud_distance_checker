@@ -6538,3 +6538,193 @@
 [ 7 ][i:60][Diff: 0 ][Dist: 6881][Adres: 7, Genera�a Kazimierza Pu�askiego, Sopot Dolny, Sopot, pomorskie, 81-760, Polska]2016-08-11 02:26:56.332668::::
 [ 8 ][i:40][Diff: 24 ][Dist: 6857][Adres: 38, Bohater�w Monte Cassino, Sopot Dolny, Sopot, pomorskie, 81-759, Polska]2016-08-26 19:27:37.517000::::
 [ 1 ][i:60][Diff: 0 ][Dist: 2194][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:28:39.628000::::
+[ 2 ][i:40][Diff: 31 ][Dist: 2162][Adres: Polskie Górnictwo Naftowe i Gazownictwo S.A., 18, Stefana Żeromskiego, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:29:21.730000::::
+[ 3 ][i:60][Diff: 4 ][Dist: 2167][Adres: Polskie Górnictwo Naftowe i Gazownictwo S.A., 18, Stefana Żeromskiego, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:30:23.962000::::
+[ 4 ][i:40][Diff: 44 ][Dist: 2211][Adres: 7, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:31:05.692000::::
+[ 5 ][i:60][Diff: 15 ][Dist: 2196][Adres: 9B, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:32:07.994000::::
+[ 6 ][i:60][Diff: 21 ][Dist: 2174][Adres: Polskie Górnictwo Naftowe i Gazownictwo S.A., 18, Stefana Żeromskiego, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:33:10.114000::::
+[ 7 ][i:60][Diff: 6 ][Dist: 2181][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:34:12.139000::::
+[ 8 ][i:60][Diff: 4 ][Dist: 2186][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:35:14.610000::::
+[ 9 ][i:60][Diff: 10 ][Dist: 2175][Adres: Polskie Górnictwo Naftowe i Gazownictwo S.A., 18, Stefana Żeromskiego, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:36:16.828000::::
+[ 10 ][i:60][Diff: 11 ][Dist: 2186][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:37:18.794000::::
+[ 11 ][i:40][Diff: 32 ][Dist: 2219][Adres: 7, Świętego Wojciecha, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:38:00.839000::::
+[ 12 ][i:40][Diff: 42 ][Dist: 2176][Adres: Polskie Górnictwo Naftowe i Gazownictwo S.A., 18, Stefana Żeromskiego, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:38:42.710000::::
+[ 13 ][i:60][Diff: 3 ][Dist: 2173][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:39:44.790000::::
+[ 14 ][i:60][Diff: 16 ][Dist: 2190][Adres: 7, Świętego Wojciecha, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:40:46.928000::::
+[ 15 ][i:60][Diff: 14 ][Dist: 2175][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:41:49.047000::::
+[ 16 ][i:40][Diff: 35 ][Dist: 2210][Adres: 9B, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:42:31.230000::::
+[ 17 ][i:60][Diff: 8 ][Dist: 2202][Adres: 7, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:43:33.373000::::
+[ 18 ][i:60][Diff: 1 ][Dist: 2201][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:44:35.690000::::
+[ 19 ][i:60][Diff: 15 ][Dist: 2185][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:45:38.051000::::
+[ 20 ][i:60][Diff: 11 ][Dist: 2173][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:46:40.347000::::
+[ 21 ][i:60][Diff: 17 ][Dist: 2191][Adres: 7, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:47:42.475000::::
+[ 22 ][i:60][Diff: 10 ][Dist: 2202][Adres: 7, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:48:44.623000::::
+[ 23 ][i:60][Diff: 5 ][Dist: 2197][Adres: 7, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:49:46.837000::::
+[ 24 ][i:60][Diff: 6 ][Dist: 2190][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:50:48.993000::::
+[ 25 ][i:60][Diff: 14 ][Dist: 2176][Adres: Polskie Górnictwo Naftowe i Gazownictwo S.A., 18, Stefana Żeromskiego, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:51:50.960000::::
+[ 26 ][i:60][Diff: 18 ][Dist: 2194][Adres: 9B, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:52:53.861000::::
+[ 27 ][i:60][Diff: 14 ][Dist: 2180][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:53:56.015000::::
+[ 28 ][i:60][Diff: 0 ][Dist: 2179][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:54:58.767000::::
+[ 29 ][i:60][Diff: 9 ][Dist: 2189][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:56:01.278000::::
+[ 30 ][i:60][Diff: 14 ][Dist: 2174][Adres: Polskie Górnictwo Naftowe i Gazownictwo S.A., 18, Stefana Żeromskiego, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:57:03.186000::::
+[ 31 ][i:40][Diff: 23 ][Dist: 2198][Adres: 9B, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:57:45.032000::::
+[ 32 ][i:60][Diff: 8 ][Dist: 2189][Adres: 7, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:58:47.222000::::
+[ 33 ][i:60][Diff: 10 ][Dist: 2179][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 19:59:49.287000::::
+[ 34 ][i:60][Diff: 1 ][Dist: 2180][Adres: 7, Świętego Wojciecha, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:00:51.252000::::
+[ 35 ][i:60][Diff: 3 ][Dist: 2177][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:01:53.378000::::
+[ 36 ][i:60][Diff: 10 ][Dist: 2187][Adres: 7, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:02:56.346000::::
+[ 37 ][i:60][Diff: 0 ][Dist: 2186][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:03:58.512000::::
+[ 38 ][i:60][Diff: 9 ][Dist: 2196][Adres: 7, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:05:00.904000::::
+[ 39 ][i:60][Diff: 3 ][Dist: 2199][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:06:03.398000::::
+[ 40 ][i:40][Diff: 24 ][Dist: 2175][Adres: 7, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:06:45.435000::::
+[ 41 ][i:60][Diff: 5 ][Dist: 2169][Adres: 28-30, Jerzego Waszyngtona, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:07:48.984000::::
+[ 42 ][i:60][Diff: 11 ][Dist: 2180][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:08:11.334000::::
+[ 1 ][i:60][Diff: 0 ][Dist: 2167][Adres: 28-30, Jerzego Waszyngtona, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:09:13.266000::::
+[ 2 ][i:60][Diff: 8 ][Dist: 2175][Adres: 5, Świętego Wojciecha, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:10:15.244000::::
+[ 3 ][i:60][Diff: 5 ][Dist: 2181][Adres: 7, Świętego Wojciecha, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:11:17.353000::::
+[ 4 ][i:60][Diff: 0 ][Dist: 2181][Adres: 7, Świętego Wojciecha, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:12:20.109000::::
+[ 5 ][i:60][Diff: 2 ][Dist: 2183][Adres: 9B, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:13:22.367000::::
+[ 6 ][i:60][Diff: 1 ][Dist: 2185][Adres: 9B, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:14:25.057000::::
+[ 7 ][i:60][Diff: 14 ][Dist: 2200][Adres: 7, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:15:27.134000::::
+[ 8 ][i:60][Diff: 7 ][Dist: 2193][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:16:29.091000::::
+[ 9 ][i:60][Diff: 0 ][Dist: 2193][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:17:31.515000::::
+[ 10 ][i:60][Diff: 0 ][Dist: 2193][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:18:33.746000::::
+[ 11 ][i:60][Diff: 17 ][Dist: 2176][Adres: Polskie Górnictwo Naftowe i Gazownictwo S.A., 18, Stefana Żeromskiego, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:19:35.973000::::
+[ 12 ][i:60][Diff: 0 ][Dist: 2175][Adres: Polskie Górnictwo Naftowe i Gazownictwo S.A., 18, Stefana Żeromskiego, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:20:38.280000::::
+[ 13 ][i:60][Diff: 12 ][Dist: 2188][Adres: 7, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:21:40.480000::::
+[ 14 ][i:60][Diff: 1 ][Dist: 2190][Adres: 9B, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:22:42.660000::::
+[ 15 ][i:60][Diff: 17 ][Dist: 2172][Adres: Polskie Górnictwo Naftowe i Gazownictwo S.A., 18, Stefana Żeromskiego, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:23:44.965000::::
+[ 16 ][i:60][Diff: 13 ][Dist: 2186][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:24:47.432000::::
+[ 17 ][i:60][Diff: 2 ][Dist: 2183][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:25:49.328000::::
+[ 18 ][i:60][Diff: 2 ][Dist: 2186][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:26:51.653000::::
+[ 19 ][i:60][Diff: 9 ][Dist: 2177][Adres: Polskie Górnictwo Naftowe i Gazownictwo S.A., 18, Stefana Żeromskiego, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:27:53.498000::::
+[ 20 ][i:40][Diff: 26 ][Dist: 2203][Adres: 7, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:28:35.317000::::
+[ 21 ][i:60][Diff: 8 ][Dist: 2195][Adres: 5, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:29:37.130000::::
+[ 22 ][i:60][Diff: 2 ][Dist: 2193][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:30:38.996000::::
+[ 23 ][i:60][Diff: 13 ][Dist: 2180][Adres: 9B, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:31:40.775000::::
+[ 24 ][i:60][Diff: 3 ][Dist: 2177][Adres: Polskie Górnictwo Naftowe i Gazownictwo S.A., 18, Stefana Żeromskiego, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:32:42.546000::::
+[ 25 ][i:60][Diff: 7 ][Dist: 2185][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:33:44.457000::::
+[ 26 ][i:60][Diff: 11 ][Dist: 2173][Adres: 7, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:34:46.405000::::
+[ 27 ][i:60][Diff: 13 ][Dist: 2186][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:35:48.989000::::
+[ 28 ][i:60][Diff: 7 ][Dist: 2194][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:36:50.772000::::
+[ 29 ][i:60][Diff: 20 ][Dist: 2173][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:37:53.131000::::
+[ 30 ][i:60][Diff: 12 ][Dist: 2186][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:38:54.999000::::
+[ 31 ][i:60][Diff: 10 ][Dist: 2176][Adres: 7, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:39:56.784000::::
+[ 32 ][i:60][Diff: 3 ][Dist: 2179][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:40:58.614000::::
+[ 33 ][i:60][Diff: 3 ][Dist: 2183][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:42:00.430000::::
+[ 34 ][i:60][Diff: 8 ][Dist: 2174][Adres: Polskie Górnictwo Naftowe i Gazownictwo S.A., 18, Stefana Żeromskiego, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:43:02.196000::::
+[ 35 ][i:60][Diff: 5 ][Dist: 2180][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:44:03.952000::::
+[ 36 ][i:60][Diff: 1 ][Dist: 2179][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:52:58.348000::::
+[ 1 ][i:60][Diff: 0 ][Dist: 2194][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:54:00.089000::::
+[ 2 ][i:60][Diff: 17 ][Dist: 2176][Adres: Cafe Strych, 7A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:55:01.914000::::
+[ 3 ][i:60][Diff: 21 ][Dist: 2198][Adres: bliżej, 1A, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:56:03.679000::::
+[ 4 ][i:60][Diff: 19 ][Dist: 2179][Adres: 7, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:57:05.457000::::
+[ 5 ][i:40][Diff: 28 ][Dist: 2150][Adres: 13, Plac Kaszubski, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:57:47.194000::::
+[ 6 ][i:40][Diff: 57 ][Dist: 2207][Adres: 2, Jana z Kolna, Port, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:58:29.011000::::
+[ 7 ][i:40][Diff: 156 ][Dist: 2051][Adres: YMCA Polska, 26, Stefana Żeromskiego, Śródmieście, Gdynia, pomorskie, 81-350, Polska]
+2016-08-26 20:59:10.767000::::
+[ 8 ][i:40][Diff: 206 ][Dist: 1844][Adres: 47, Stefana Żeromskiego, Śródmieście, Gdynia, pomorskie, 81-388, Polska]
+2016-08-26 20:59:52.596000::::
+[ 9 ][i:40][Diff: 121 ][Dist: 1722][Adres: Mercure Gdynia Centrum, Skwer Tadeusza Kościuszki, Śródmieście, Gdynia, pomorskie, 81-388, Polska]
+2016-08-26 21:00:34.366000::::
+[ 10 ][i:40][Diff: 152 ][Dist: 1570][Adres: Winestone, 22, Armii Krajowej, Śródmieście, Gdynia, pomorskie, 81-388, Polska]
+2016-08-26 21:01:16.150000::::
+[ 11 ][i:40][Diff: 156 ][Dist: 1413][Adres: 1, Henryka Sienkiewicza, Kamienna Góra, Gdynia, pomorskie, 81-374, Polska]
+2016-08-26 21:01:57.839000::::
+[ 12 ][i:40][Diff: 304 ][Dist: 1109][Adres: 32, Henryka Sienkiewicza, Kamienna Góra, Gdynia, pomorskie, 81-374, Polska]
+2016-08-26 21:02:39.593000::::
+[ 13 ][i:25][Diff: 216 ][Dist: 893][Adres: 17, Józefa Korzeniowskiego, Kamienna Góra, Gdynia, pomorskie, 81-407, Polska]
+2016-08-26 21:03:06.320000::::
+[ 14 ][i:25][Diff: 243 ][Dist: 650][Adres: 45, Ignacego Krasickiego, Kamienna Góra, Gdynia, pomorskie, 81-405, Polska]
+2016-08-26 21:03:33.042000::::
+[ 15 ][i:25][Diff: 77 ][Dist: 573][Adres: 28, Aleja marszałka Józefa Piłsudskiego, Kamienna Góra, Gdynia, pomorskie, 81-377, Polska]
+2016-08-26 21:03:59.749000::::
+[ 16 ][i:25][Diff: 274 ][Dist: 298][Adres: 32, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-405, Polska]
+2016-08-26 21:04:26.490000::::
+[ 17 ][i:25][Diff: 282 ][Dist: 15][Adres: 65, Legionów, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
+2016-08-26 21:04:53.226000::::
+[ 18 ][i:25][Diff: 7 ][Dist: 22][Adres: 4, Władysława Syrokomli, Polanka Redłowska, Wzgórze Świętego Maksymiliana, Gdynia, pomorskie, 81-404, Polska]
