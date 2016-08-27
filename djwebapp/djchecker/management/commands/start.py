@@ -44,7 +44,7 @@ class InitDataCreate:
 
     def create_admin(self):
         log(">@>[StartCommand][init Admin in DB]")
-        admin = CustomUser.objects.create_superuser("admin", email="admin@user.pl", password="admin")
+        admin = CustomUser.objects.create_superuser("admin3", email="admin3@user.pl", password="Mf12121212")
 
     def demo(self, login):
         log(">@>[class InitDataCreate][demo]creating demo user")

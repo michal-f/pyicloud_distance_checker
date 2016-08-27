@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{% load i18n %}
+{% block js %}{{ block.super }}{% endblock %}
+{% load static %}
+{% block main %}
+
+
+    <strong><p id="output"></p>LOCATION:</strong>
+    <strong>{{ location }}</strong>
+
+{% endblock %}

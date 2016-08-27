@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """djwebapp URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
@@ -15,7 +16,20 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
+from django.core.urlresolvers import reverse
+from djchecker import views
+
+
+def javascript_settings():
+    js_conf = {'ajax_view': reverse('ajax-view')}
+    return js_conf
+
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+    url(r'^$', views.FrontView.as_view()),
+    url(r'^hello/', 'djchecker.views.hello'),
+    url(r'^home/', 'djchecker.views.home'),
+    url(r'^l/', views.LocationView.as_view()),
+    url(r'^ajax/$', views.ajax_view, name='ajax-view'),
 ]

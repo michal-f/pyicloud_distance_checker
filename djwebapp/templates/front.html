@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{% load i18n %}
+{% block js %}{{ block.super }}{% endblock %}
+{% load static %}
+{% block main %}
+
+<button id="btn-check" class="btn btn-primary">check now</button>
+    <image id="loadanimaion" style="zoom:30%;"src="{% static 'img/load.gif' %}"></image>
+{#<h1>Hello {{ variable }}, welcome to my awesome site</h1>#}
+{#<button id="btn-animation" class="btn btn-danger">animation</button>#}
+
+    <strong><p id="output"></p></strong>
+    <p>result list:</p>
+    <div id="resultArea" style="padding: 0; margin:0;"></div>
+
+{% endblock %}

@@ -1,0 +1,42 @@
+{% load staticfiles %}
+{% load i18n %}
+{% load static %}
+{% get_static_prefix as STATIC_PREFIX %}
+{% get_media_prefix as MEDIA_PREFIX %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="{{ LANGUAGE_CODE|default:"en-us" }}" xml:lang="en">
+<head>
+    <meta name='charset' content="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="description" content=""/>
+    <meta name="author" content=""/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>{% block title %}DJ Checker{% endblock %}</title>
+    {% block stylesheet %}{% endblock %}
+    <link href="{% static 'css/bootstrap.css' %}" rel="stylesheet"/>
+    <link rel="stylesheet" type="text/css" href="{% static 'sweetalert/sweetalert.css' %}"/>
+    <link href="{% static 'css/djwebapp.css' %}" rel="stylesheet"/>
+</head>
+<body class="{% block bodyclass %}{% endblock %}">
+<div id="container" class="">
+    <header id="header-area"></header>
+    {% block messages %}{% endblock messages %}
+    <div id="main-container-home" class="container jumbotron">
+        <h1 class="display-4">DJ iCloud distance Checker</h1>
+
+        {# Include main content block FROM front.html  #}
+        {% block main %}
+        {% endblock %}
+    </div>
+
+
+    <div class="footnote" id="footer">{% include "footer.html" %}</div>
+</div>
+{% block js %}
+    <script type="text/javascript" src="{% static 'js/jquery-1.10.2.js' %}"></script>
+    <script type="text/javascript" src="{% static 'js/bootstrap.js' %}"></script>
+    <script type="text/javascript" src="{% static 'sweetalert/sweetalert.min.js' %}"></script>
+    <script type="text/javascript" src="{% static 'js/djchecker.js' %}"></script>
+{% endblock %}
+</body>
+</html>
