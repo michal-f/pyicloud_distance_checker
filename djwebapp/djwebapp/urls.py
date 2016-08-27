@@ -28,8 +28,8 @@ def javascript_settings():
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', views.FrontView.as_view()),
-    url(r'^hello/', 'djchecker.views.hello'),
-    url(r'^home/', 'djchecker.views.home'),
+    # url(r'^hello/', 'djchecker.views.hello'),
+    # url(r'^home/', 'djchecker.views.home'),
     url(r'^l/', views.LocationView.as_view()),
     url(r'^ajax/$', views.ajax_view, name='ajax-view'),
 ]
