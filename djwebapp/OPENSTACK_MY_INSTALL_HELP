@@ -1,0 +1,14 @@
+stat -L -c "%U %G" /etc/keystone/keystone.conf | egrep "keystone keystone"
+stat -L -c "%U %G" /etc/keystone/keystone-paste.ini | egrep "keystone keystone"
+stat -L -c "%U %G" /etc/keystone/policy.json | egrep "keystone keystone"
+stat -L -c "%U %G" /etc/keystone/logging.conf | egrep "keystone keystone"
+stat -L -c "%U %G" /etc/keystone/ssl/certs/signing_cert.pem | egrep "keystone keystone"
+stat -L -c "%U %G" /etc/keystone/ssl/private/signing_key.pem | egrep "keystone keystone"
+stat -L -c "%U %G" /etc/keystone/ssl/certs/ca.pem | egrep "keystone keystone"
+stat -L -c "%a" /etc/keystone/keystone.conf
+stat -L -c "%a" /etc/keystone/keystone-paste.ini
+stat -L -c "%a" /etc/keystone/policy.json
+stat -L -c "%a" /etc/keystone/logging.conf
+stat -L -c "%a" /etc/keystone/ssl/certs/signing_cert.pem
+stat -L -c "%a" /etc/keystone/ssl/private/signing_key.pem
+stat -L -c "%a" /etc/keystone/ssl/certs/ca.pem
